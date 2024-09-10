@@ -1,0 +1,15 @@
+{
+  "name": "monolith-todo-app",
+  "version": "1.0.0",
+  "description": "Demo APP for Monolithic approach",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsx ./src/frontend/index.ts"
+  },
+  "author": "Omgazz89",
+  "license": "ISC",
+  "dependencies": {
+    "tsx": "^4.19.0"
+  }
+}
